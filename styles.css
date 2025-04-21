@@ -14,8 +14,8 @@ body * {
   h2,
   h3,
   h4 {
-    font-weight: bold;
     font-color: #c0392b;
+    font-weight: bold;
   }
   
   ul li {
